@@ -1,0 +1,14 @@
+body { font-family: sans-serif; background-color: #f0f0f0; }
+.container { max-width: 900px; margin: 20px auto; background: white; padding: 20px; box-shadow: 0 0 10px rgba(0,0,0,0.1); }
+.header { display: flex; justify-content: space-between; align-items: center; margin-bottom: 20px; }
+.input-group { display: flex; }
+.main-content { display: flex; gap: 20px; }
+.pessoas-lista { flex: 1; }
+.json-area { flex: 1; }
+#json-output { width: 100%; height: 400px; resize: none; font-family: monospace; }
+.pessoa-item, .filho-item { border: 1px solid #ccc; padding: 10px; margin-bottom: 10px; background: #fafafa; }
+.pessoa-item { background: #e9e9e9; }
+.pessoa-header { display: flex; justify-content: space-between; align-items: center; font-weight: bold; }
+.filho-item { margin-left: 20px; background: #fff; }
+.filho-header { display: flex; justify-content: space-between; align-items: center; }
+button { cursor: pointer; }
