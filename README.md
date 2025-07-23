@@ -15,6 +15,8 @@ Aplicação web desenvolvida como um teste técnico para demonstrar habilidades 
 * **Frontend:** HTML5, CSS3, JavaScript (Vanilla)
 * **Armazenamento de Dados:** Arquivo JSON
 
+![Image](https://github.com/user-attachments/assets/1b7ec827-95af-43a2-93fa-3966c066bbdb)
+
 ## Instruções para Execução
 
 **Pré-requisitos:**
