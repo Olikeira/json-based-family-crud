@@ -48,7 +48,7 @@ Aplicação web desenvolvida como um teste técnico para demonstrar habilidades 
 
 ## Autor
 
-**[Seu Nome Completo]**
+**Lucas de Oliveira Pereira**
 
 * **GitHub:** `https://github.com/Olikeira`
 * **LinkedIn:** `https://www.linkedin.com/in/lucas-de-oliveira-pereira-741936272/`
